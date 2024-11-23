@@ -1,0 +1,16 @@
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\bin\Debug\net6.0-windows\EsThread+-.exe
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\bin\Debug\net6.0-windows\EsThread+-.deps.json
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\bin\Debug\net6.0-windows\EsThread+-.runtimeconfig.json
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\bin\Debug\net6.0-windows\EsThread+-.dll
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\bin\Debug\net6.0-windows\EsThread+-.pdb
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread__.Form1.resources
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.csproj.GenerateResource.cache
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.AssemblyInfoInputs.cache
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.AssemblyInfo.cs
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.csproj.CoreCompileInputs.cache
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.dll
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\refint\EsThread+-.dll
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.pdb
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\EsThread+-.genruntimeconfig.cache
+C:\Users\colombo.21191\Desktop\EsThread+-\EsThread+-\obj\Debug\net6.0-windows\ref\EsThread+-.dll
